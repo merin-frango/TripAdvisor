@@ -1034,10 +1034,9 @@ body {
     }
 
     .sponser-phone__image img {
-        width: 385.6px;
-        height: 375px;
-        margin-top: 10px;
         display: flex;
+        width: 100%;
+        margin-top: 10px;
         justify-content: center;
     }
 
