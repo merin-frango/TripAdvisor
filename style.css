@@ -1105,6 +1105,7 @@ body {
     }
 
     .footer-phone {
+        display: block;
         background-color: #F2F2F2;
         padding-left: 20px;
         padding-top: 30px;
