@@ -850,6 +850,7 @@ body {
         border: none;
         font-family: "Poppins", sans-serif;
         background-color: white;
+        color: black !important;
         border-radius: 5px;
         padding: 4px;
         font-size: 09px;
@@ -1134,6 +1135,7 @@ body {
         border: none;
         border: solid gray 1px;
         background-color: white;
+        color: #545454 !important;
         padding: 10px;
         margin-top: 10px;
         margin-bottom: 10px;
